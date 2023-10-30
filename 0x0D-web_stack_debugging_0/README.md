@@ -1,1 +1,4 @@
-readmd
+
+- Up and running code.
+- Author: Ehimigbai Jude
+
